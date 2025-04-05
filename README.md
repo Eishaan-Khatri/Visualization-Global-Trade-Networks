@@ -1,0 +1,3 @@
+This script creates an interactive graph of the international trade network for any product (or group of products) from the UN Comtrade database. This allows you to quickly gain insight into how international trade is organized for a particular product, identify trade links that countries have not reported, and identify countries and territories that have closed trade reporting or do not report trade at all.
+
+The created graph will be colored according to the option selected by the user; its nodes, when clicked, will display the name of the country and will be highlighted with all its trade connections. The network can be saved in *.png format.
